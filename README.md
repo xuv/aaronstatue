@@ -1,4 +1,4 @@
-# Aaron Sswartz Statue
+# Aaron Swartz Statue
 3D model of Aaron Swartz staue
 
 - Weight	312 lbs
